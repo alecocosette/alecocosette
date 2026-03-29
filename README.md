@@ -1,6 +1,6 @@
 # Nice to meet you, I'm Alejandro
 
-<img align="right" src="https://64.media.tumblr.com/469f6da57029c200fa59825fa0f11c40/416f1225b7152037-e7/s540x810/9df00976a3c4faf60a2357fca736364a021685b2.gif" width="200">
+<img align="right" src="https://64.media.tumblr.com/469f6da57029c200fa59825fa0f11c40/416f1225b7152037-e7/s540x810/9df00976a3c4faf60a2357fca736364a021685b2.gif" width="300">
 Yo, I am Alejandro Jaimes, a current student and builder. I am part of Graphics Programming Knights and Knight Hacks. I work everyday to be a better developer and learn 1% more in systems, games, machine learning or web development. Always down to eat some empanadas.
 
 ## Things I am currently working on
