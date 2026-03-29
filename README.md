@@ -1,16 +1,17 @@
 # Nice to meet you, I'm Alejandro
 
-<img align="right" src="https://64.media.tumblr.com/469f6da57029c200fa59825fa0f11c40/416f1225b7152037-e7/s540x810/9df00976a3c4faf60a2357fca736364a021685b2.gif" width="270">
+<img align="right" src=https://64.media.tumblr.com/a50ef5b17f053599bc37b0e2824fce8f/tumblr_mqvbzyvBQm1rrftcdo1_500.gif width="100">
 Yo, I am Alejandro Jaimes, a current student and builder. I am part of Graphics Programming Knights and Knight Hacks. I work everyday to be a better developer and learn 1% more in systems, games, machine learning or web development. Always down to eat some empanadas.
 
-## Things I am currently working on
+# Things I am currently working on
+<img align="right" src=https://static.wikitide.net/celestewiki/a/ac/Strawberry_flap.gif width="100">
 
 [![Repo](https://img.shields.io/badge/GitHub-sFun-808080?style=flat-square&logo=github&logoColor=white)](https://github.com/alecocosette/sFun)
 [![Repo](https://img.shields.io/badge/GitHub-GPKweb-FF8AF0?style=flat-square&logo=github&logoColor=white)](https://github.com/GraphicsProgrammingKnights/gpkweb)
 
 
 
-## Socials
+# Socials
 
 <p align="left">
 <a href="https://www.linkedin.com/in/alejandro-jaimes-coco/" target="_blank">
