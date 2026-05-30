@@ -17,8 +17,8 @@ Yo, I am Alejandro Jaimes, a current student and builder. I am part of Graphics 
 <a href="https://www.linkedin.com/in/alejandro-jaimes-coco/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Alejandro%20Jaimes%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:alejaimes300912@gmail.com">
-  <img src="https://img.shields.io/badge/Email-alejaimes300912%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:ale@alejaimes.dev">
+  <img src="https://img.shields.io/badge/Email-ale%40alejaimes.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.alejaimes.dev" target="_blank">
