@@ -8,6 +8,7 @@ Yo, I am Alejandro Jaimes, a current student and builder. I am part of Graphics 
 
 [![Repo](https://img.shields.io/badge/GitHub-sFun-808080?style=flat-square&logo=github&logoColor=white)](https://github.com/alecocosette/sFun)
 [![Repo](https://img.shields.io/badge/GitHub-GPKweb-FF8AF0?style=flat-square&logo=github&logoColor=white)](https://github.com/GraphicsProgrammingKnights/gpkweb)
+[![Repo](https://img.shields.io/badge/GitHub-HIPrenderer-FF0001?style=flat-square&logo=github&logoColor=white)](https://github.com/alecocosette/hipRenderer)
 
 
 
