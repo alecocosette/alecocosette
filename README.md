@@ -15,7 +15,7 @@ Yo, I am Alejandro Jaimes, a current student and builder. I am a Software Engine
 # Socials
 
 <p align="left">
-<a href="https://www.linkedin.com/in/alejandro-jaimes-coco/" target="_blank">
+<a href="https://www.linkedin.com/in/alejaimes/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Alejandro%20Jaimes%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:ale@alejaimes.dev">
